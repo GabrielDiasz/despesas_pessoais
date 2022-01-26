@@ -24,6 +24,7 @@ class _TransactionCardState extends State<TransactionCard> {
       margin: EdgeInsets.symmetric(
         vertical: 8,
         horizontal: 5,
+        //teste;
       ),
       child: ListTile(
         leading: CircleAvatar(
